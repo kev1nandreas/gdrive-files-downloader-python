@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a script that connects directly to Google Drive using a Client ID and Client Secret for authentication. It is made to download multiple files directly from Google Drive without using the Drive platform. Ideal for automation tasks, it enables seamless downloads without manual authentication and supports secure OAuth 2.0 authentication, making it perfect for retrieving large files, backups, or shared documents efficiently.
+This is a script that connects directly to Google Drive using a Client ID and Client Secret for authentication. It is made to download multiple files directly from Google Drive without using the Drive platform. Ideal for automation tasks, it enables seamless downloads without manual authentication and supports secure OAuth 2.0 authentication.
 
 ## Requirements
 
